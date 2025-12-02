@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./project1/Cricbuz/Pages",
+        "./project1/Cricbuz/Pages"
+    ]
+}
